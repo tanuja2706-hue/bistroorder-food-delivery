@@ -1,0 +1,6 @@
+{
+  "name": "BistroOrder",
+  "description": "BistroOrder - Good food. Delivered your way. Order from top restaurants, curated cuisines, and trending gourmet dishes with fast delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
